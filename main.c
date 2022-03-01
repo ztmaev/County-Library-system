@@ -1,6 +1,6 @@
 /*
 County library management system
-By Maev
+By Mr Titus
 FEB 2022
 MIT license
 C89 compiler
@@ -43,7 +43,7 @@ switch(action){
 int main()
 {
     printf("COUNTY LIBRARY SYSTEM\n");
-    printf("Welcome Maev\n");
+    printf("Welcome Mr. Titus\n");
     execute_action(menu());
     return 0;
 }
